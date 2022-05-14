@@ -12,13 +12,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-
-## Overview
+## Stats
 <!--- Stats & Graphs --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingWithEisbar)](https://github.com/anuraghazra/github-readme-stats)
 <!--- Language & Overview --->
-![](https://github.com/CodingWithEisbar/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/CodingWithEisbar/github-stats/blob/master/generated/languages.svg)
+![LanguageStat](https://github.com/CodingWithEisbar/Overview-Stats/blob/master/generated/languages.svg)
+![OverviewStat](https://github.com/CodingWithEisbar/Overview-Stats/blob/master/generated/overview.svg)
+
 
 
 
