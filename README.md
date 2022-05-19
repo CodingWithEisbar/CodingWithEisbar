@@ -2,8 +2,8 @@
 
 <!--- Introduction --->
 ## Self Introduction
-- 🔭 I’m currently studying at University of Science, VNU-HCM
-- 🌱 I’m currently learning Information Technology
+- 🔭 I’m currently studying at University of Science, VNU-HCM.
+- 🌱 I’m currently learning Information Technology.
 - 👨‍💻 Languages I used:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
