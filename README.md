@@ -19,6 +19,7 @@
 ![LanguageStat](https://github.com/CodingWithEisbar/Overview-Stats/blob/master/generated/languages.svg)
 ![OverviewStat](https://github.com/CodingWithEisbar/Overview-Stats/blob/master/generated/overview.svg)
 
-
+## Đạo lý ở đời
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
