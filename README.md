@@ -2,8 +2,8 @@
 
 <!--- Introduction --->
 ## Self Introduction
-- 🔭 I’m currently studying at University of Science, VNU-HCM.
-- 🌱 I’m currently learning Information Technology.
+- 🔭 I’m graudated from University of Science, VNU-HCM.
+- 🌱 My major: Information Technology (Information System).
 - 🤳Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-trung-nguy%C3%AAn-904955229/)
 [![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/it_d3_3c)
